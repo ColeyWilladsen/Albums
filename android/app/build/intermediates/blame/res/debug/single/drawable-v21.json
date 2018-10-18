@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "C:\\Users\\Dev\\albums\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\abc_btn_colored_material.xml",
+        "source": "C:\\Users\\Dev\\.android\\build-cache\\a880bec5b626e072ddae1c96b03e634af99bdf7a\\output\\res\\drawable-v21\\abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dev\\albums\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\abc_edit_text_material.xml",
+        "source": "C:\\Users\\Dev\\.android\\build-cache\\a880bec5b626e072ddae1c96b03e634af99bdf7a\\output\\res\\drawable-v21\\abc_edit_text_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dev\\albums\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\abc_action_bar_item_background_material.xml",
+        "source": "C:\\Users\\Dev\\.android\\build-cache\\a880bec5b626e072ddae1c96b03e634af99bdf7a\\output\\res\\drawable-v21\\abc_action_bar_item_background_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dev\\albums\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\notification_action_background.xml",
+        "source": "C:\\Users\\Dev\\.android\\build-cache\\7a8bc9f0ea1e0468192e5cad7eaf489f286fd498\\output\\res\\drawable-v21\\notification_action_background.xml"
+    }
+]
